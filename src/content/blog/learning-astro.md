@@ -7,10 +7,6 @@ tags:
   - Astro
   - 前端开发
 isFeatured: true
-seo:
-  image:
-    src: '../../assets/images/hero.jpg'
-    alt: Astro.js 框架
 ---
 
 最近我重新搭建了自己的博客，经过一番调研和比较，最终选择了 [Astro.js](https://astro.build/) 作为技术栈。今天想和大家分享一下选择 Astro 的原因。

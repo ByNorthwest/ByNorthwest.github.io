@@ -6,10 +6,6 @@ tags:
   - 读书笔记
   - 自我提升
   - 习惯养成
-seo:
-  image:
-    src: '../../assets/images/hero.jpg'
-    alt: 原子习惯书籍
 ---
 
 最近读了 James Clear 的《原子习惯》，这本书给我带来了很多启发。今天想和大家分享一些核心观点和实践建议。

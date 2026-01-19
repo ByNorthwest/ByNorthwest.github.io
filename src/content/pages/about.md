@@ -3,12 +3,7 @@ title: About
 seo:
   title: About Me
   description: Learn more about me and my journey.
-  image:
-    src: '../../assets/images/about.jpg'
-    alt: A person sitting at a desk in front of a computer
 ---
-
-![About image](../../assets/images/about.jpg)
 
 ## About Me
 

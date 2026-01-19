@@ -5,10 +5,6 @@ publishDate: '2026-01-19'
 tags:
   - 生活
   - 随笔
-seo:
-  image:
-    src: '../../assets/images/hero.jpg'
-    alt: 欢迎来到我的博客
 ---
 
 欢迎来到我的个人博客！这是我的第一篇文章，很高兴能在这里与大家分享我的想法和经历。
